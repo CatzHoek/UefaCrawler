@@ -7,7 +7,7 @@ UefaCrawler
 
 3) python crawlClubs.py >> whatever.json
 
-This will take a while, browsing to approx. 1000 players for each country
+This will take a while, browsing to approx. 500-600 players for each country
 
 Example to count players by country
 
